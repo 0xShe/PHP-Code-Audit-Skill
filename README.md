@@ -203,6 +203,7 @@ output_path = "C:/path/to/your-php-project_audit"
 
 ---
 
-## 🪪 许可（License）
+## 🪪 结束语
 
-仓库根目录若尚未包含 `LICENSE` 文件，请按需自行补充（如 MIT、Apache-2.0 等）并更新本节说明。当前 Badge 显示为 *Add LICENSE* 时，表示许可尚未最终选定。
+作者：0xShe
+官网：sbbbb.cn
